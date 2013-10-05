@@ -3,12 +3,9 @@ package receiver;
 
 
 
-import android.app.KeyguardManager;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-
-import android.widget.Toast;
 
 import pro.wizard.RedAdActivity;;
 public class RedAdReceiver extends BroadcastReceiver {
